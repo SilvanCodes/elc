@@ -43,13 +43,6 @@ footer {
   max-width: none;
 }
 
-/* Have initial elements take up all the space. */
-html,
-body,
-main {
-  height: 100%;
-}
-
 /* BOX-LAYOUT */
 .elc-box {
   --box-padding: var(--s0);
